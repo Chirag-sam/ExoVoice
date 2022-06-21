@@ -1,0 +1,3 @@
+rootProject.name = "ExoVoice"
+include ':app'
+include ':exotel-voice-release'
